@@ -24,10 +24,10 @@
             android:value="@string/back4app_server_url" />
         <meta-data
             android:name="com.parse.APPLICATION_ID"
-            android:value="@string/back4app_app_id" />
+            android:value="" />
         <meta-data
             android:name="com.parse.CLIENT_KEY"
-            android:value="@string/back4app_client_key" />
+            android:value="" />
 
         <!--All of our Activity/Screen-->
         <activity
